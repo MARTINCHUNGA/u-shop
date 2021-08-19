@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816979739859",
+    "project_id": "u-shop-5f13d",
+    "storage_bucket": "u-shop-5f13d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816979739859:android:58be953ff6e852a4de0026",
+        "android_client_info": {
+          "package_name": "com.example.ushop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816979739859-hmp0jliphfu83g937dfb436latka08qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyxop0KjGbFF8r9C6-DAFb95zvCvpQuOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816979739859-hmp0jliphfu83g937dfb436latka08qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
